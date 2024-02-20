@@ -1,0 +1,64 @@
+.btn1{
+
+   
+    padding: 10px;
+    border-radius: 25px;
+    
+    cursor:pointer;
+    font-size: 20px;
+    font-weight: bold;
+    border:none;
+    padding:10px;
+    padding-left: 40px;
+padding-right: 40px;    
+margin-top:30px;
+margin-bottom:30px;
+}
+@media (min-width: 0px) {
+    /* Adjust font size for small screens (576px and above) */
+    .btn1{
+        font-size: 15px;
+        padding-left: 25px;
+        padding-right: 25px; 
+
+    }
+  }
+@media (min-width: 576px) {
+    /* Adjust font size for small screens (576px and above) */
+    .btn1{
+        font-size: 15px;
+        padding-left: 25px;
+        padding-right: 25px; 
+
+    }
+  }
+
+  @media (min-width: 768px) {
+    /* Adjust font size for medium screens (768px and above) */
+    .btn1{
+        font-size: 15px;
+        padding-left: 30px;
+        padding-right: 30px; 
+
+    }
+  }
+
+  @media (min-width: 992px) {
+    /* Adjust font size for large screens (992px and above) */
+    .btn1{
+        font-size: 17px;
+        padding-left: 35px;
+        padding-right: 35px; 
+
+    }
+  }
+
+  @media (min-width: 1200px) {
+    /* Adjust font size for extra-large screens (1200px and above) */
+    .btn1{
+        font-size: 20px;
+        padding-left: 40px;
+        padding-right: 40px; 
+
+    }
+  }

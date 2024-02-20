@@ -1,0 +1,39 @@
+.head{
+
+  font-weight:bold;
+}
+
+
+@media (min-width: 576px) {
+  /* Adjust font size for small screens (576px and above) */
+  h1.head {
+    font-size: 25px;
+  }
+ 
+}
+
+@media (min-width: 768px) {
+  /* Adjust font size for medium screens (768px and above) */
+  h1.head {
+    font-size: 30px;
+  }
+ 
+  
+}
+
+@media (min-width: 992px) {
+  /* Adjust font size for large screens (992px and above) */
+  h1.head {
+    font-size: 35px;
+  }
+ 
+}
+
+@media (min-width: 1200px) {
+  /* Adjust font size for extra-large screens (1200px and above) */
+  h1.head {
+    font-size: 40px;
+  }
+ 
+}
+
